@@ -1,0 +1,12 @@
+[project]
+name = "PEP-high-school-book"
+version = "0.1.0"
+description = "A Python tool for downloading PEP (People's Education Press) high school electronic textbooks"
+readme = "README.md"
+requires-python = ">=3.6"
+dependencies = [
+    "requests>=2",
+]
+authors = [
+    {name = "006lp", email = "kirakirai8023@gmail.com"},
+]

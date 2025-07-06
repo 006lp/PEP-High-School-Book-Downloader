@@ -1,0 +1,4 @@
+certifi==2025
+charset-normalizer==3
+requests==2
+urllib3==2
