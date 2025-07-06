@@ -94,9 +94,9 @@ python main.py
 > 
 > `start_page`&`stop_page`具体值请自行换算
 > <details>
-> <summary>例如示例中书下角标第4页实际上是12.jpg
+> <summary>例如示例中书下角标第4页实际上是12.jpg</summary>
 > <img src="./example2.png">
-
+> </details>
 
 ```python
 start_page = 6
